@@ -1,0 +1,50 @@
+{
+  "name": "eslint-config-othree-style",
+  "description": "eslint sharable config for othree",
+  "version": "0.0.1",
+  "author": {
+    "email": "othree@gmail.com",
+    "name": "othree",
+    "url": "https://twitter.com/othree"
+  },
+  "bugs": {
+    "url": "https://github.com/othree/eslint-config-othree-style/issues"
+  },
+  "devDependencies": {
+    "eslint": "^3.4.0"
+  },
+  "homepage": "https://github.com/othree/eslint-config-othree-style",
+  "keywords": [
+    "style checker",
+    "code style",
+    "code checker",
+    "code linter",
+    "style linter",
+    "simple",
+    "policy",
+    "style",
+    "code",
+    "lint",
+    "eslint",
+    "eslintconfig",
+    "jshint",
+    "jscs",
+    "hint",
+    "enforce",
+    "check",
+    "verify",
+    "quality",
+    "checker",
+    "code standards",
+    "eslintconfig"
+  ],
+  "license": "Unlicense",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/othree/eslint-config-othree-style.git"
+  },
+  "peerDependencies": {
+    "eslint-config-standard": "^10.2.1"
+  }
+}
