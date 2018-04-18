@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-othree-style",
   "description": "eslint sharable config for othree",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "author": {
     "email": "othree@gmail.com",
     "name": "othree",
