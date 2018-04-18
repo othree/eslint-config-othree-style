@@ -11,7 +11,8 @@
     "url": "https://github.com/othree/eslint-config-othree-style/issues"
   },
   "peerDependencies": {
-    "eslint-config-standard": "^10.2.1"
+    "eslint-config-standard": "^10.2.1",
+    "eslint-plugin-no-parameter-e": "^0.0.1"
   },
   "devDependencies": {
     "eslint": "^3.4.0"

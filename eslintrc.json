@@ -1,6 +1,10 @@
 {
   "extends": "standard",
 
+  "plugins": [
+    "no-parameter-e"
+  ],
+
   "rules": {
     "semi": [2, "always"],
     "no-extra-semi": 2,

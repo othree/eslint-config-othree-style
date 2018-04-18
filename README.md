@@ -19,7 +19,7 @@ Also, minifier can strip trailing commas, so don't worry about old browsers.
 Because deps are based on peerDependency. We need to install all eslin config ourself.
 
 ```sh
-npm install --save-dev eslint-config-othree-style eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node
+npm install --save-dev eslint-config-othree-style eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-no-parameter-e
 ```
 
 Add this to esling config:
