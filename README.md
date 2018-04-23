@@ -1,8 +1,9 @@
 # eslint-config-othree-style
 
-[semistandard][] + [trailing comma][comma-dangle] on multiline
+* [semistandard][] + [trailing comma][comma-dangle] on multiline
+* [eslint-plugin-no-parameter-e][]
 
-# Why
+## Why
 
 I love standardjs and semistandard. But I really want trailing comma.
 
@@ -14,7 +15,11 @@ Reduce the chance produces bug when copy element from old code.
 
 Also, minifier can strip trailing commas, so don't worry about old browsers.
 
-# Usage
+After several monthes later, I start to add my lint rules
+The first one is [eslint-plugin-no-parameter-e][].
+And I am planing to add a more powerfule empty line linter.
+
+## Usage
 
 Because deps are based on peerDependency. We need to install all eslin config ourself.
 
@@ -32,3 +37,4 @@ Add this to esling config:
 
 [semistandard]:https://github.com/Flet/semistandard
 [comma-dangle]:https://eslint.org/docs/rules/comma-dangle
+[eslint-plugin-no-parameter-e]:https://github.com/othree/eslint-plugin-no-parameter-e
