@@ -9,6 +9,6 @@
     "semi": [2, "always"],
     "no-extra-semi": 2,
     "comma-dangle": ["error", "always-multiline"],
-    "no-parameter-e": 2
+    "no-parameter-e/no-parameter-e": 2
   }
 }
