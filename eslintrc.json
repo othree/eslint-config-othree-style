@@ -9,6 +9,7 @@
     "semi": [2, "always"],
     "no-extra-semi": 2,
     "comma-dangle": ["error", "always-multiline"],
+    "no-multiple-empty-lines": 0,
     "no-parameter-e/no-parameter-e": 2
   }
 }
