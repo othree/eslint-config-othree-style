@@ -11,5 +11,6 @@
     "comma-dangle": ["error", "always-multiline"],
     "no-multiple-empty-lines": 0,
     "no-parameter-e/no-parameter-e": 2
+    "pep8-blank-lines/pep8-blank-lines": 2,
   }
 }
