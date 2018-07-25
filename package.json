@@ -1,7 +1,7 @@
 {
   "name": "eslint-config-othree-style",
   "description": "eslint sharable config for othree",
-  "version": "0.0.7",
+  "version": "0.0.8",
   "author": {
     "email": "othree@gmail.com",
     "name": "othree",
@@ -12,8 +12,8 @@
   },
   "peerDependencies": {
     "eslint-config-standard": "^10.2.1",
-    "eslint-plugin-no-parameter-e": "^0.0.1",
-    "eslint-plugin-pep8-blank-lines": "^0.0.1"
+    "eslint-plugin-no-parameter-e": "^0.0.2",
+    "eslint-plugin-pep8-blank-lines": "^0.0.2"
   },
   "devDependencies": {
     "eslint": "^3.4.0"
@@ -48,10 +48,5 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/othree/eslint-config-othree-style.git"
-  },
-  "dependencies": {
-    "eslint-config-standard": "^11.0.0",
-    "eslint-plugin-no-parameter-e": "0.0.2",
-    "eslint-plugin-pep8-blank-lines": "0.0.1"
   }
 }
