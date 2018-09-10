@@ -2,6 +2,7 @@
 
 * [semistandard][] + [trailing comma][comma-dangle] on multiline
 * [eslint-plugin-no-parameter-e][]
+* [eslint-plugin-pep8-blank-lines][]
 
 ## Why
 
@@ -46,3 +47,4 @@ Add this to esling config:
 [semistandard]:https://github.com/Flet/semistandard
 [comma-dangle]:https://eslint.org/docs/rules/comma-dangle
 [eslint-plugin-no-parameter-e]:https://github.com/othree/eslint-plugin-no-parameter-e
+[eslint-plugin-pep8-blank-lines]:https://github.com/othree/eslint-plugin-pep8-blank-lines
