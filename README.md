@@ -24,7 +24,15 @@ And I am planing to add a more powerfule empty line linter.
 Because deps are based on peerDependency. We need to install all eslin config ourself.
 
 ```sh
-npm install --save-dev eslint-config-othree-style eslint-config-standard eslint-plugin-standard eslint-plugin-promise eslint-plugin-import eslint-plugin-node eslint-plugin-no-parameter-e
+npm install --save-dev \
+  eslint-config-othree-style \
+  eslint-config-standard \
+  eslint-plugin-standard \
+  eslint-plugin-promise \
+  eslint-plugin-import \
+  eslint-plugin-node \
+  eslint-plugin-no-parameter-e \
+  eslint-plugin-pep8-blank-lines
 ```
 
 Add this to esling config:
