@@ -16,9 +16,12 @@ Reduce the chance produces bug when copy element from old code.
 
 Also, minifier can strip trailing commas, so don't worry about old browsers.
 
-After several monthes later, I start to add my lint rules
-The first one is [eslint-plugin-no-parameter-e][].
-And I am planing to add a more powerfule empty line linter.
+## Other Rules
+
+My custom rules:
+
+* [eslint-plugin-no-parameter-e][].
+* [eslint-plugin-pep8-blank-lines][]
 
 ## Usage
 
